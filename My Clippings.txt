@@ -479,16 +479,6 @@ Atomic Habits: Tiny Changes, Remarkable Results (James Clear)
 
 Chapter Summary The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. The greatest threat to success is not failure but boredom. As habits become routine, they become less interesting and less satisfying. We get bored. Anyone can work hard when they feel motivated. It’s the ability to keep going when work isn’t exciting that makes the difference. Professionals stick to the schedule; amateurs let life get in the way.
 ==========
-Remote Triggered Black Hole (RTBH) Filtering - SENKI (senki.org)
-- Your Highlight on Location 2-6 | Added on Wednesday, May 11, 2022 8:32:38 PM
-
-You have three choices when you stand in front of an on rushing force. You can push back directly against that force. You can step aside and let the force push past you. Or, you can redirect the force to a location that you choose. Now think of that “force” in the form of a Denial of Service (Attack). When DOS attacks are forces on the Internet which can be addressed with either of the three options. Of the three, redirection has been one of the mostly commonly used tools to “redirect” the DOS attack to a location which the Operator can better manage the attack. The foundation tool for that redirection is the used of the Border Gateway Protocol (BGP) and the Remote Triggered Black Hole (RTBH).
-==========
-Remote Triggered Black Hole (RTBH) Filtering - SENKI (senki.org)
-- Your Highlight on Location 7-10 | Added on Wednesday, May 11, 2022 8:33:39 PM
-
-The Border Gateway Protocol (BGP) is the glue which connect the Internet together. We use BGP as a tool to move and route GOOD traffic from one part of the Internet to the other. This also means we can use BGP to move BAD traffic to places that minimize the hard to the Internet – including places that “just drop” BAD traffic. We call this BGP security technique a Remote Triggered Black Hole (RTBH).
-==========
 four-thousand-weeks-en (Blinkist)
 - Your Highlight on page 3 | Location 9-10 | Added on Tuesday, July 16, 2024 8:19:33 AM
 
@@ -518,15 +508,4 @@ four-thousand-weeks-en (Blinkist)
 - Your Highlight on page 9 | Location 64-67 | Added on Tuesday, July 16, 2024 8:24:18 AM
 
 According to Heidegger, embracing finitude means realizing that every choice about what to do with your time requires sacrifices. But rather than feeling defeated that you can’t accomplish everything, your choices could symbolize a commitment to choosing what matters most to you – whether you’re forgoing other options to support your family, watch a sunset, or write a novel. Become a better procrastinator by prioritizing limited goals.
-==========
-
-(The Divide) J. S. Dewes - The Exiled Fleet (J. S. Dewes)
-- Your Highlight on page 402 | Location 6304-6304 | Added on Sunday, August 18, 2024 8:39:30 PM
-
-pushed off, rappelling two stories to the
-==========
-(The Divide) J. S. Dewes - The Exiled Fleet (J. S. Dewes)
-- Your Highlight on page 526 | Location 8269-8269 | Added on Tuesday, August 20, 2024 8:38:32 PM
-
-was designed to restrict expansion
 ==========
